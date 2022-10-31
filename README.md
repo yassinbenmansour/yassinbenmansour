@@ -16,7 +16,7 @@ I'm Software engineer
 * ✉️  You can contact me at [benmasouryassine@gmail.com](mailto:benmasouryassine@gmail.com)
 
 #### Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=yassinbenmansour&column=-1&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=yassinbenmansour&column=-1&theme=onedark)
 
 <p align="left"> <a href="https://www.github.com/yassinbenmansour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yassine-benmansour-16b711234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Benman17Yassine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 

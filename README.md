@@ -11,7 +11,7 @@ I'm Software engineer
 
 * 🌍  I'm based in Morocco 🇲🇦
 
-* 🖥️  See my portfolio at [yassine benmansour](https://yassinbenmansour.github.io/Portfolio/)
+* 🖥️  See my portfolio at [yassine benmansour](https://yassin-benmansour.web.app/)
 
 * ✉️  You can contact me at [benmasouryassine@gmail.com](mailto:benmasouryassine@gmail.com)
 

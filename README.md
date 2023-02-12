@@ -4,7 +4,7 @@ Hi 👋 My name is yassine benmansour
 ![](https://komarev.com/ghpvc/?username=yassinbenmansour&style=flat-square)
 
 
-I'm Software engineer
+I'm Software Developer
 -------------
 📚 I'm constantly learning new skills and striving for progress 
 

@@ -90,9 +90,6 @@ I'm Software Developer
 
 
 
-![chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yassinbenmansour)
-  
- 
 
 
 

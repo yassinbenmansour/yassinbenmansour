@@ -4,7 +4,9 @@ Hi 👋 My name is yassine benmansour
 ![](https://komarev.com/ghpvc/?username=yassinbenmansour&style=flat-square)
 
 
-<a href="https://app.daily.dev/lazybenmans"><img align="left" src="https://api.daily.dev/devcards/80cc34f7c7fb4174953b09104709a1c6.png?r=0we" width="300"  alt="yassine benmansour's Dev Card"/></a>
+<a href="https://app.daily.dev/lazybenmans"><img align="center" src="https://api.daily.dev/devcards/80cc34f7c7fb4174953b09104709a1c6.png?r=0we" width="300"  alt="yassine benmansour's Dev Card"/></a>
+
+<br>
 
 
 I'm Software Developer

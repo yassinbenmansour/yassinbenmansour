@@ -10,7 +10,7 @@ Hi 👋 My name is yassine benmansour
 
 
 I'm Software Developer
--------------
+
 📚 I'm constantly learning new skills and striving for progress 
 
 🏆 Goal: Be the person I needed when I was younger 
@@ -25,11 +25,6 @@ I'm Software Developer
 
 
 
-
-
-
-
-<br>
 #### Trophy 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=yassinbenmansour&column=-1&theme=onedark)
 

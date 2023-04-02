@@ -70,7 +70,7 @@ I'm Software Developer
   
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%1c1917)
   ![Laravel](https://camo.githubusercontent.com/85b8858163097e34c31ef8eeda533e1fa18be0ec8ce58f494b6b5cedc2f27196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465)
 
 
@@ -87,9 +87,9 @@ I'm Software Developer
 
 
 
-<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
+<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=1c1917&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
 
-<a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+<a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=1c1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
 
 

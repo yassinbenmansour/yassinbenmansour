@@ -87,9 +87,9 @@ I'm Software Developer
 
 
 
-<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=1c1917&icon_color=0891b2&bg_color=23FF4500&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
+<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=171de&text_color=ffffff&icon_color=171de&bg_color=24d73d&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
 
-<a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=1c1917&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+<a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=24d73d&background=1c1917&ring=24d73d&fire=24d73d&currStreakNum=24d73d&currStreakLabel=24d73d&sideNums=24d73d&sideLabels=24d73d&dates=24d73d&hide_border=true" /></a>  
 
 
 

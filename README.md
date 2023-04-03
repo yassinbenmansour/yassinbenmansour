@@ -87,7 +87,7 @@ I'm Software Developer
 
 
 
-<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=171de&text_color=1c1917&icon_color=1c1917&bg_color=24d73d&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
+<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=24d73d&text_color=24d73d&icon_color=24d73d&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
 
 <a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=24d73d&background=1c1917&ring=24d73d&fire=24d73d&currStreakNum=24d73d&currStreakLabel=24d73d&sideNums=24d73d&sideLabels=24d73d&dates=24d73d&hide_border=true" /></a>  
 

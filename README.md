@@ -87,20 +87,6 @@ I'm Software Developer
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-<b>My GitHub Stats</b>
-
-
-
-<a  href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&hide=&count_private=true&title_color=24d73d&text_color=24d73d&icon_color=24d73d&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassinbenmansour's GitHub stats" /></a>  
-
-<a href="http://www.github.com/yassinbenmansour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinbenmansour&stroke=24d73d&background=1c1917&ring=24d73d&fire=24d73d&currStreakNum=24d73d&currStreakLabel=24d73d&sideNums=24d73d&sideLabels=24d73d&dates=24d73d&hide_border=true" /></a>  
-
-
-
-<a href="https://github.com/yassinbenmansour" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinbenmansour&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
-<a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinbenmansour&theme=github_dark&show_icons=true" />
-  </a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>

@@ -102,5 +102,8 @@ I'm Software Developer
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinbenmansour&theme=github_dark&show_icons=true" />
   </a>
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
 

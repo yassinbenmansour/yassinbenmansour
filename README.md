@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Yassine+Benmansour;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
@@ -84,7 +84,7 @@ I'm Software Developer
 
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=footer"/>
 </a>
 
 

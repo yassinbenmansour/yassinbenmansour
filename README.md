@@ -93,10 +93,30 @@ I'm Software Developer
 </div> 
 
 </div>
-
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=footer"/>
 </a>
+
+
+
+                           __
+                         .d$$b
+                       .' TO$;\
+                      /  : TP._;
+                     / _.;  :Tb|
+                    /   /   ;j$j
+                _.-"       d$$$$
+              .' ..       d$$$$;
+             /  /P'      d$$$$P. |\
+            /   "      .d$$$P' |\^"l
+          .'           `T$P^"""""  :
+      ._.'      _.'                ;
+   `-.-".-'-' ._.       _.-"    .-"
+ `.-" _____  ._              .-"
+-(.g$$$$$$$b.              .'
+  ""^^T$$$P^)            .(:
+    _/  -"  /.'         /:/;
+ ._.'-'`-'  ")/         /;/;
+
 
 

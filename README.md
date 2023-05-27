@@ -100,38 +100,5 @@ I'm Software Developer
 
 
                                      
-                             .d$$b
-                           .' TO$;\
-                          /  : TP._;
-                         / _.;  :Tb|
-                        /   /   ;j$j
-                    _.-"       d$$$$
-                  .' ..       d$$$$;
-                 /  /P'      d$$$$P. |\
-                /   "      .d$$$P' |\^"l
-              .'           `T$P^"""""  :
-          ._.'      _.'                ;
-       `-.-".-'-' ._.       _.-"    .-"
-     `.-" _____  ._              .-"
-    -(.g$$$$$$$b.              .'
-      ""^^T$$$P^)            .(:
-        _/  -"  /.'         /:/;
-     ._.'-'`-'  ")/         /;/;
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 

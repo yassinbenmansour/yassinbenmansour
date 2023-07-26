@@ -22,7 +22,7 @@ I'm Software Developer
 
 * 🌍  I'm based in Morocco 🇲🇦
 
-* 🖥️  See my portfolio at [yassine benmansour](https://lazy-ben.web.app/)
+* 🖥️  See my portfolio at [yassine benmansour](https://yassine.benmansour.me/)
 
 * ✉️  You can contact me at [benmasour.yassine@gmail.com](mailto:benmasour.yassine@gmail.com)
 

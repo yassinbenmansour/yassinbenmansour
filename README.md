@@ -33,45 +33,38 @@ I'm Software Developer
 * My C projects are tested Only on macOS, don't panic if you get some undefined behaviors on other Operating Systems
 
 
-#### My Favorite IDEs/Editors:
-[![s](https://skillicons.dev/icons?i=vim,vscode,eclipse)](https://skillicons.dev)
-
-
 <div align="center">
-#### S:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,vscode,eclipse" />
+  </a>
+
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,nginx" />
   </a>
 
 
-#### 📋 Languages
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,c,php,java,,python,bash" />
   </a>
 
 
 
-#### 📚 Frameworks, Platforms and Libraries
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ts,react,vue,spring,angular,laravel" />
   </a>
 
   
-
-
-#### 💾 Databases
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 
 
-#### Forums
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 
-#### Envt
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker" />
   </a>

@@ -51,9 +51,11 @@ I'm Software Developer
 #### servers:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+[![Language](https://skillicons.dev/icons?i=apache,nginx)](https://skillicons.dev)
+
 
 #### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,html,css,c,php,python,bash)](https://skillicons.dev)
 
 
 

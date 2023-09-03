@@ -35,39 +35,54 @@ I'm Software Developer
 
 <div align="center">
 
+
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,vscode,eclipse" />
   </a>
 
+<br>
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,nginx" />
   </a>
+  <br>
+
 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,php,java,,python,bash" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,php,java,python,bash" />
   </a>
+  <br>
+
 
 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ts,react,vue,spring,angular,laravel" />
   </a>
+  <br>
+
 
   
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
+  <br>
+
 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
+  <br>
+
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker" />
   </a>
+  <br>
+
 
 
 </div>

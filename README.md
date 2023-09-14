@@ -59,7 +59,7 @@ I'm Software Developer
 
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ts,react,vue,spring,angular,laravel" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ts,react,vue,spring,angular,laravel,flask,nextjs" />
   </a>
   <br>
 

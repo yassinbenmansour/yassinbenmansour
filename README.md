@@ -43,7 +43,7 @@ I'm Software Developer
 
 <br>
 
-  <script src="https://tryhackme.com/badge/3044603"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lazy0ben.png" alt="TryHackMe">
 
 
 <a href="https://skillicons.dev">

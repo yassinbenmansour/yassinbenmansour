@@ -42,7 +42,10 @@ I'm Software Developer
   </a>
 
 <br>
-  
+
+  <script src="https://tryhackme.com/badge/3044603"></script>
+
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,nginx" />
   </a>

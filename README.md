@@ -10,7 +10,6 @@
 <a href="https://app.daily.dev/lazybenmans"><img  align="right" src="https://api.daily.dev/devcards/80cc34f7c7fb4174953b09104709a1c6.png?r=ri7" width="200" alt="yassine benmansour's Dev Card"/></a>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Lazy0ben.png" alt="TryHackMe">
 
 
 I'm Software Developer

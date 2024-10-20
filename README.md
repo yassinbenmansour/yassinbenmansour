@@ -12,7 +12,7 @@
 
 
 
-** Senior player in the tech world
+ Senior player in the tech world
 
 * 🌍  I'm based in Morocco 🇲🇦
 

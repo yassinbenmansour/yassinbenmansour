@@ -12,13 +12,7 @@
 
 
 
-I'm Software Developer
-
-📚 I'm constantly learning new skills and striving for progress 
-
-🏆 Goal: Be the person I needed when I was younger 
-
-⚡ Motto: Keep striving for progress, not perfection
+** Senior player in the tech world
 
 * 🌍  I'm based in Morocco 🇲🇦
 

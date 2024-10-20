@@ -86,7 +86,6 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinbenmansour&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
-  <img src="https://raw.githubusercontent.com/yassinbenmansour/yassinbenmansour/output/snake.svg" alt="Snake animation" />
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinbenmansour&theme=github_dark&show_icons=true" />
   </a>

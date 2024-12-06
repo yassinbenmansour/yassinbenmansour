@@ -78,25 +78,17 @@
 
 </div>
 
- # Stack & Tools
-<div align="center">
-  <a href="https://github.com/ayeshanweerasuriya">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,nodejs,c,idea,git,github,gitlab,angular,python,pytorch,anaconda,php,postman,laravel,react,vscode,kubernetes,docker,kafka,mongo,express,linux,bash,selenium,maven" />
-  </a>
-</div>
 
 <br/>
-<div align="center" style="border-raduis=10px">
-  <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
-</div>
+
 
 <!-- Stats Section -->
  # Github Stats
 <p align="center">
-   <a href="https://github.com/AissyAchraf">
+   <a href="https://github.com/yassinbenmansour">
       <img src="https://streak-stats.demolab.com?user=AissyAchraf&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
-      <img src="https://github-readme-stats.vercel.app/api?username=AissyAchraf&theme=highcontrast&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&card_width=835" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AissyAchraf&theme=highcontrast&hide=blade,scss,css,javascript&layout=compact&hide_border=true&card_width=835" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&theme=highcontrast&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&card_width=835" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinbenmansour&theme=highcontrast&hide=blade,scss,css,javascript&layout=compact&hide_border=true&card_width=835" alt="GitHub Stats" />
    </a>
 </p>
 </div>

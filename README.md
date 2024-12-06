@@ -78,19 +78,27 @@
 
 </div>
 
+ # Stack & Tools
 <div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassinbenmansour&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  <a href="https://github.com/ayeshanweerasuriya">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,nodejs,c,idea,git,github,gitlab,angular,python,pytorch,anaconda,php,postman,laravel,react,vscode,kubernetes,docker,kafka,mongo,express,linux,bash,selenium,maven" />
   </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinbenmansour&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassinbenmansour&theme=github_dark&show_icons=true" />
-  </a>
-</div> 
+</div>
 
+<br/>
+<div align="center" style="border-raduis=10px">
+  <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
+</div>
+
+<!-- Stats Section -->
+ # Github Stats
+<p align="center">
+   <a href="https://github.com/AissyAchraf">
+      <img src="https://streak-stats.demolab.com?user=AissyAchraf&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AissyAchraf&theme=highcontrast&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&card_width=835" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AissyAchraf&theme=highcontrast&hide=blade,scss,css,javascript&layout=compact&hide_border=true&card_width=835" alt="GitHub Stats" />
+   </a>
+</p>
 </div>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=footer"/>
